@@ -1,29 +1,62 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-10-20 16:40:19 +0200
-categories: jekyll update
+title: "The Banana Accounting Software"
+date: 2024-10-30 17:55:10 +0100
+categories:
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+The Botangisi association works closely with Banana.ch SA, a Swiss software
+company specialised in accouting. Since 2018, this firm has kindely provided
+free licences of its accounting software to the Ministry of Primary, Secondary
+and Technical Education of DRC. Public and private schools in DRC have since
+been able to integrate the teaching of digital accouting in their curriculum. We
+also supported the Ministry in the training of the teachers within the different
+provinces of the country.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+This project encourages the use of digital means in teaching and meets a need in
+the educational program of this region. The access to this highly qualitative
+software for free is desicive in the transition to digitalisation for this
+specific branch. However a great obstacle remains: the access to computer
+equipment.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+At the end of 2022 a scientific article has been published by Kitenge Kalume
+Deogratias, Mandela Nsengiyumva David and Muleka Kipanga Celestin about the use
+of the Banana accounting software in Lubumbashi.
 
-Jekyll also offers powerful support for code snippets:
+### Abstract
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+“This study aims at assessing the integration level of banana accounting
+software in the teaching of computer science in the Commercial and Management
+section in secondary schools in the Lubumbashi 1 sub-division. Survey and
+questionnaire methods, allowed us to collect the data relating to our
+investigations. Out of a total number of 131 schools identified organizing the
+Commercial and Management Section, 39 were selected on the basis of the
+following criteria: the presence of computer tools, the presence of terminal
+classes of this option and the presence of teachers with knowledge of the Banana
+Accounting software. After data collection and analysis of the data, the results
+recorded showed on the one hand that all the teachers actually have knowledge of
+the existence of banana accounting software and this, following a mode of
+learning (seminar or self-training) and on the other hand, 74.4% of these
+teachers have effectively integrated the teaching of the software under
+discussion, while the remainder, i.e. 25.6%, teach the use of the software
+without integrating it into their material predictions. In addition, 66.7% of
+teachers mentioned difficulties in teaching this software particularly due to
+the insufficiency of the computer tools available allowing a good transmission
+of the concepts related to this software, to the non-existence of manuals
+containing the appropriate concepts. Banana accounting software and the
+instability of the electric current. Despite all these difficulties, only 5.1%
+of students fail to master the concepts related to this software. Regarding the
+schools management mode that met the criteria, the results show that the
+majority of the schools selected (76.9%) operate under the approved private
+system, while 23.1%; have a public management system (official and contracted)
+and as regards gender, the majority of the selected schools teachers (92.3%),
+who teach computer science in the Lubumbashi 1 sub-division, are male against a
+minority women (7.7%).”
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Copyright © 2022 ISSR Journals. This is an open access article distributed under
+the Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Find the whole article
+[here](http://www.ijias.issr-journals.org/abstract.php?article=IJIAS-22-250-37).
