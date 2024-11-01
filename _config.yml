@@ -30,3 +30,8 @@ github_username: botangisi
 theme: minima
 
 show_excerpts: true
+
+supported_languages:
+  - en
+  - fr
+  - it
