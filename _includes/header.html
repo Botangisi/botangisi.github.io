@@ -17,10 +17,10 @@
 
         <div class="trigger">
           {%- for my_page in my_pages -%}
-            {%- if my_page.title == page.title -%}
-              <span class="page-link page-link-selected">{{ my_page.title | escape }}</span>
+            {%- if my_page.header == page.header -%}
+              <span class="page-link page-link-selected">{{ my_page.header | escape }}</span>
             {%- else -%}
-              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.header | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
 

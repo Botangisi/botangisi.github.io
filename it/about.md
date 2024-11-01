@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+header: About
+title: Botangisi
 language: it
 language_reference: about
 ---
