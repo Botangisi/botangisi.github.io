@@ -4,7 +4,12 @@
 
   <div class="langs">
     {%- for language in site.supported_languages -%}
-      {%- assign lang_page = site.pages | where: "language", language | where: "language_reference", page.language_reference | first -%}
+      {%- if page.layout == "post" -%}
+        {%- assign lang_page = site.posts | where: "language", language | where: "language_reference", page.language_reference | first -%}
+      {%- else -%}
+        {%- assign lang_page = site.pages | where: "language", language | where: "language_reference", page.language_reference | first -%}
+      {%- endif -%}
+
       {%- if lang_page -%}
         {%- if lang_page.language == page.language -%}
           <span class="lang-link lang-link-selected">{{ language }}</span>

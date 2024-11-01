@@ -22,7 +22,7 @@ et l’élève.
 
 ### Team
 
-Botangisi se compose d'un comité exécutif et d'un conseil d'administration.
+Botangisi se compose d'un comité exécutif et d'un conseil consultatif.
 
 #### Comité
 
@@ -31,7 +31,7 @@ Botangisi se compose d'un comité exécutif et d'un conseil d'administration.
 - [Gioia Bulundwe](https://www.linkedin.com/in/gioia-bulundwe-138bb91a1), Membre
 - [Zeno Boila](https://www.linkedin.com/in/zeno-boila-3a09aa107), Membre
 
-#### Conseil d'Administration
+#### Conseil Consultatif
 
 - Didier Kinano,
   [Ministère de l'Enseignement primaire, secondaire et technique de la République du Congo](https://www.eduquepsp.education/v1/).

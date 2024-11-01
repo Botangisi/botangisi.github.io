@@ -2,7 +2,7 @@
 
   <div class="wrapper">
     {%- assign my_pages = site.pages | where: 'layout', "page" | where: 'language', page.language -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="/{{ page.language }}">{{ site.title | escape }}</a>
 
     {%- if my_pages -%}
       <nav class="site-nav">
