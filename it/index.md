@@ -1,4 +1,5 @@
 ---
-language: en
+layout: home
+language: it
 language_reference: index
 ---

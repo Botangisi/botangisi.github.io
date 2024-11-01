@@ -1,0 +1,14 @@
+{%- assign lang_pages = site.pages | where: "language_reference", page.language_reference -%}
+{%- if lang_pages.size > 0 -%}
+  <span class="lang-divider"></span>
+
+  <div class="langs">
+    {%- for lang_page in lang_pages -%}
+      {%- if lang_page.language == page.language -%}
+        <span class="lang-link lang-link-selected">{{ lang_page.language }}</span>
+        {%- else -%}
+        <a class="lang-link" href="{{ lang_page.url | relative_url }}">{{ lang_page.language }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+{%- endif -%}

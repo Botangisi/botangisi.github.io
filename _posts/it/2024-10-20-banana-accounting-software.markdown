@@ -3,6 +3,8 @@ layout: post
 title: "The Banana Accounting Software"
 date: 2024-10-30 17:55:10 +0100
 categories:
+language: it
+language_reference: post/banana-accounting-software
 ---
 
 The Botangisi association works closely with Banana.ch SA, a Swiss software

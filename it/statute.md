@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Statuti
-permalink: /statuti/
+language: it
+language_reference: statute
 ---
 
 Statuti Associazione Botangisi con sede a Massagno – Gradinata San Carlo 1.

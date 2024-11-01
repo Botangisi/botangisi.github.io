@@ -46,6 +46,23 @@
     }
   }
 
+  .langs {
+    display: inline-flex;
+  }
+
+  .lang-divider {
+    margin-right: 20px;
+    border-right: 1px solid black;
+  }
+
+  .lang-link {
+    text-transform: uppercase;
+
+    &:not(:last-child) {
+      margin-right: 8px;
+    }
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -54,6 +71,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+    line-height: unset;
 
     label[for="nav-trigger"] {
       display: block;
@@ -96,6 +114,19 @@
         margin-right: 0;
       }
       margin-left: 20px;
+    }
+
+    .langs {
+      padding: 5px 10px;
+      line-height: unset;
+    }
+
+    .lang-divider {
+      display: none;
+    }
+
+    .lang-link {
+      margin-left: 4px;
     }
   }
 }

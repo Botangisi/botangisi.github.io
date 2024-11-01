@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+language: it
+language_reference: about
 ---
 
 L'**Associazione Botangisi** è un ente senza scopo di lucro, che ha come
