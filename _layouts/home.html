@@ -11,7 +11,7 @@ layout: default
 
 
   {%- assign posts_in_lang = site.posts | where: "language", page.language -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
+  <h2 class="post-list-heading">{{ page.list_title | default: "Blog" }}</h2>
   {%- if posts_in_lang.size > 0 -%}
     <ul class="post-list">
       {%- for post in posts_in_lang -%}
