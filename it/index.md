@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: Progetti
+list_title: Blog
 empty_list_message:
   Attualmente non ci sono pagine dedicate ai progetti in italiano, prova con le
   altre lingue.
